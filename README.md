@@ -1,5 +1,3 @@
 # MeuPrimeiroProjeto
-Descrião do proejto:
-*
-Meu Primeiro Projeto
+Descrição do projeto: Meu primeiro projeto
 
